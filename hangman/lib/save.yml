@@ -1,0 +1,13 @@
+--- !ruby/object:Game
+word: pigeon
+allowed: 8
+guesses: 4
+correct:
+- _
+- i
+- _
+- e
+- o
+- _
+incorrect:
+- a
